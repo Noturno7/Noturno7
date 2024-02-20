@@ -1,4 +1,4 @@
-Hello, I'm Gabriel, is good to see you here!
+🖐🏽 Hello, I'm Gabriel, is good to see you here!
 
 📚 Currently doing CC50.
 
