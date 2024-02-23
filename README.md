@@ -12,7 +12,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/gabriel_gdsf?igsh=OWt3MGJ6cWdwbjIy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "gabrielgdsf7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabrielgdsf7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noturno7&bg_color=000000&color=24d639&line=1ff486&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
