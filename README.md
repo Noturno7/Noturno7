@@ -24,7 +24,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Noturno7&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### Studying in this moment:
+### Studying at the moment:
 [![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
