@@ -15,10 +15,6 @@
 <a href = "mailto:gabrielgdsf7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-dos-santos-faria-864b34305/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"</a>
 
-
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=405113211759886336)
- </div>
-
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noturno7&bg_color=000000&color=24d639&line=1ff486&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Noturno7&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
