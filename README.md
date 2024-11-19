@@ -15,17 +15,13 @@
 <a href = "mailto:gabrielgdsf7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-dos-santos-faria-864b34305/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"</a>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noturno7&bg_color=000000&color=24d639&line=1ff486&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noturno7&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noturno7&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CThu&card_width=500&card_height=200)](https://git.io/streak-stats)
 ### Studying at the moment:
-[![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 
 ### Learned:
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)#:~:text=C%20é%20uma%20linguagem%20de,(originalmente%20escrito%20em%20Assembly).)
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://pt.wikipedia.org/wiki/C%2B%2B)
+  [![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
