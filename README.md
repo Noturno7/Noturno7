@@ -15,8 +15,9 @@
 <a href = "mailto:gabrielgdsf7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-dos-santos-faria-864b34305/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"</a>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noturno7&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CThu&card_width=500&card_height=200)](https://git.io/streak-stats)
-### Studying at the moment:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noturno7&theme=github-green-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CThu&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+
 [![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 
 ### Learned:
